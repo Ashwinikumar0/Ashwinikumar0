@@ -63,6 +63,6 @@ I am a software engineer with over 6 years of experience building scalable enter
 
 ### 📬 Get in Touch
 
-* **GitHub:** [Ashwinikumar0](https://www.google.com/search?q=https://github.com/Ashwinikumar0)
-* **LinkedIn:** [Ashwinikumar](https://www.google.com/search?q=https://linkedin.com/in/ashwinikumarv)
+* **GitHub:** [Ashwinikumar0](https://github.com/Ashwinikumar0)
+* **LinkedIn:** [Ashwinikumar](https://linkedin.com/in/ashwinikumarv)
 * **Email:** ashwinivishwakarma98@gmail.com
