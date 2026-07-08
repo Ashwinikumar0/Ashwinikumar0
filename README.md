@@ -35,6 +35,12 @@ I am a software engineer with over 6 years of experience building scalable enter
 **Full Stack Developer @ AVS Technology** *(Feb 2022 – Oct 2023)*
 * Developed financial CRM features including Reconciliation, Settlement, and Compliance validations, integrating with third-party tools like WorldCheckOne and FATCA/CRS regulatory workflows.
 
+**Jr. Web Developer @ Saisanket Industries Pvt. Ltd** *(Nov 2021 – Feb 2022)*
+* Built RESTful APIs and frontend modules for a Farm Management System using .NET MVC Core and integrated government crop advisory APIs.
+
+**Freelance React Developer** *(2020 – 2021)*
+* Built a help desk chatbot application using ReactJS, enabling automated information response and UI-driven logic handling.
+
 **Mathematics Tutor @ R.C. Tutorials** *(2018 – 2020)*
 * Taught Mathematics and Organic Chemistry to junior college students, breaking down complex analytical concepts and mentoring students for academic success.
 ---
