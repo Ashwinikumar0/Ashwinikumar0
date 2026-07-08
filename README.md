@@ -29,9 +29,6 @@ I am a software engineer with over 6 years of experience building scalable enter
 * Optimized margin processing time by 40% using CME SPAN2 APIs and integrated real-time FIX Protocol drop-copy feeds for automated post-trade workflows.
 * Orchestrated data workflows using Apache Airflow and deployed microservices via CI/CD pipelines (Docker/Jenkins).
 
-**IT Consultant @ InventivePeak IT Solutions** *(Jan 2024 – Apr 2025)*
-* Designed and built an Asset Management System and Back Office Platform using Go (backend) and ReactJS (frontend) for portfolio tracking and operations automation.
-
 **Full Stack Developer @ AVS Technology** *(Feb 2022 – Oct 2023)*
 * Developed financial CRM features including Reconciliation, Settlement, and Compliance validations, integrating with third-party tools like WorldCheckOne and FATCA/CRS regulatory workflows.
 
